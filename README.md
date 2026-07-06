@@ -52,61 +52,41 @@ cef86185f94d76365c850a5ef4efc4df
 원본.iso MD5해시값
 cef86185f94d76365c850a5ef4efc4df
 
- 
 
-2) SDGGOW 한글패치
- https://www.mediafire.com/file/7t3po7q0xg891cd/sdggow_v260625.7z/file
-
-[압축비번]
-
+[압축비번]  
 2012년09월27일+v260625
 
  
-
 3) 패치유틸
  https://www.mediafire.com/file/26kzyhl266bg734/patchtool.7z/file
 
- 
-
 4) 메뉴 텍스처
-
-https://www.mediafire.com/file/9y5qlg6y3wfd3vm/NPJH50681.7z/file
-
  
 
 [패치 순서]
 
 0) 한패,유틸 링크의 압축파일을 모두 다운 받습니다.
-
 1) 한글패치,유틸패치 파일을 반드시 '반디집' 또는 '7-zip'을 이용해서 압축해제합니다
-
-     '여기에 풀기'로 롤 압축해제
-
-     모든 파일은 같은 폴더에 있어야 합니다
-
+   '여기에 풀기'로 롤 압축해제
+  모든 파일은 같은 폴더에 있어야 합니다
+   
 2) '여기에_원본iso_올려놔.bat'에 '원본.iso' 올려놓으세요  
 3) 조금 기다리다 완료 메세지 나오면 끝
 
 4) 텍스처 복사(메뉴)
-
-텍스처 압축을 풉니다
-
-png파일을 모두 아래의 경로에 복사&붙여넣기 합니다.
-
-폴더가 없으면 만드세요
-
-PPSSPP 1.17.1 가 설치된 경로\memstick\PSP\TEXTURES\ NPJH-50681
-
- 
-
-PPSSPP 1.17.1 
+   텍스처 압축을 풉니다
+   
+   png파일을 모두 아래의 경로에 복사&붙여넣기 합니다.
+   폴더가 없으면 만드세요
+   PPSSPP 1.17.1 가 설치된 경로\memstick\PSP\TEXTURES\ NPJH-50681
 
 
-에뮬에 '텍스처 교체' 체크
+PPSSPP 1.17.1  
 
- 
+<img width="1280" height="166" alt="image" src="https://github.com/user-attachments/assets/e66651dd-6f3b-442b-a092-eeb1b4b5f879" />  
+에뮬에 '텍스처 교체' 체크  
 
-5) 실행하고 즐긴다~
+5) PPSSPP 실행하고 즐긴다~
 
  
 
